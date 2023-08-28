@@ -1,0 +1,37 @@
+# Dependency directories
+node_modules/
+
+# Build artifacts
+dist/
+build/
+out/
+tmp/
+*.log
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.swp
+*.swo
+
+# Compiled addons
+*.node
+
+# Cache and temporary files
+*.cache/
+*.tmp/
+*.temp/
+
+# Ignore package-lock.json if using npm
+package-lock.json
+
+# Ignore yarn.lock if using Yarn
+yarn.lock

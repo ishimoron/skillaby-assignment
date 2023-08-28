@@ -1,0 +1,8 @@
+* {
+    box-sizing: border-box;
+}
+
+.equal-width {
+    width: 25%;
+    /* Распределение ширины на 4 колонки */
+}
